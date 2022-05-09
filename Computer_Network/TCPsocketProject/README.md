@@ -1,4 +1,12 @@
 # Tcp socket programming project using python
+## Introduce
+- This project is a tcp socket programming using Python.
+- Client requests GET/HEAD/POST/PUT Request for HTTP protocol.
+- On the server, the response message is configured according to the client's request to respond.
+
+## Screenshot
+<img width="1670" alt="image" src="https://user-images.githubusercontent.com/84405002/167463418-7ffa5167-fa72-40b9-a6e2-363589c0f14b.png">
+
 ## Implementation Environment
   Python version : 3.9.12
   
